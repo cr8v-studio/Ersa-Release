@@ -5,24 +5,29 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Ersa</title>
     <item>
       <title>Ersa 0.1.2</title>
-      <sparkle:version>236</sparkle:version>
+      <sparkle:version>238</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="plain-text">Ersa keeps checking the transfer engine after you restart sharing. Stop sharing waits for confirmation.
+      <description sparkle:format="plain-text">Ersa keeps subtitles visible above the player controls and adds translations for file removal and update controls.
 
-Ersa uses VLCKit 3.7.2 under the GNU Lesser General Public License, version 2.1 or later. See the release for licenses, corresponding source code and the Ersa relink kit:
-https://github.com/cr8v-studio/Ersa-Release/releases/tag/build-236
+This build includes VLCKit 3.7.2. The release provides the corresponding sources, relink kit and license:
+https://github.com/cr8v-studio/Ersa-Release/releases/tag/build-238
+
+Ersa-238-Recipient-Relink.zip
+https://github.com/cr8v-studio/Ersa-Release/releases/download/build-238/Ersa-238-Recipient-Relink.zip
+SHA-256 d203d5dcd4a2364d30fce0b9c45594c0a97d2a747be2191e9d905251e373995a
 
 VLCKit-3.7.2-VLC-3.0.23-Sources.zip
-https://github.com/cr8v-studio/Ersa-Release/releases/download/build-236/VLCKit-3.7.2-VLC-3.0.23-Sources.zip
+https://github.com/cr8v-studio/Ersa-Release/releases/download/build-238/VLCKit-3.7.2-VLC-3.0.23-Sources.zip
 SHA-256 39088274e8b6a9e7023b690085e0fd7651fe770b60ccd449fa91c1478bd5fa3f
-Ersa-236-Recipient-Relink.zip
-https://github.com/cr8v-studio/Ersa-Release/releases/download/build-236/Ersa-236-Recipient-Relink.zip
-SHA-256 7da160ae5c23d5f9e4dd0b7018396e9b14a6b5d7ad942fe193861eea294e4de7</description>
-      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-236/Ersa-236.zip" length="44068776" type="application/octet-stream" sparkle:edSignature="8xVTkI3ASnEllwb8AT61f52RUSxArkD4tYpbnfjmy7/ZbcAiMpGlURihxIyp9Bk2sgvwolbtAJJjCYNiMHfjDQ=="></enclosure>
+
+ERSA-OWN-CODE-LICENSE.txt
+https://github.com/cr8v-studio/Ersa-Release/releases/download/build-238/ERSA-OWN-CODE-LICENSE.txt
+SHA-256 36c942792e9a6d90e385b2d9e933e688f3143c5b1acc3642a88f4c1438215093</description>
+      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-238/Ersa-238.zip" length="44082913" type="application/octet-stream" sparkle:edSignature="gp6IcosIVlqeks4r9/tqUDz3M4EynvVY9dyNuHY5w4Fwt7G5Asumb18HdDTLwxJZmI3rU1szvIgcT/LKBx53CA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 0U3d+EBw0i7aYGFTDNlJtvNrb+Fx56z0v9eXQz1O5hS+YocZ5ZFSBS0m54EHioIAB/ju0Idu1iDCnnE7ek+LAw==
-length: 1784
+edSignature: u3vV+wWBk0XhflWb3u04JgsUW0FieCAtrTgB8W7jgd6IUcdPkXsX9MFIhRMX4Pb5Q/SXS23azSMAzn5icBacAQ==
+length: 1929
 -->
