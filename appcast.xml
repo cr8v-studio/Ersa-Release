@@ -5,13 +5,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Ersa</title>
     <item>
       <title>Ersa 0.1.2</title>
-      <sparkle:version>230</sparkle:version>
+      <sparkle:version>236</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-230/Ersa-230.zip" length="44673651" type="application/octet-stream" sparkle:edSignature="hJztkCQSZ9ZyhLCGlOFpxil/UyxO6/PGPDfGxNT2TrgU2nya8T6wlOK+U3xQR0Jh7HA1iyUvb7jJUOvz464hAw=="></enclosure>
+      <description sparkle:format="plain-text">Ersa keeps checking the transfer engine after you restart sharing. Stop sharing waits for confirmation.
+
+Ersa uses VLCKit 3.7.2 under the GNU Lesser General Public License, version 2.1 or later. See the release for licenses, corresponding source code and the Ersa relink kit:
+https://github.com/cr8v-studio/Ersa-Release/releases/tag/build-236
+
+VLCKit-3.7.2-VLC-3.0.23-Sources.zip
+https://github.com/cr8v-studio/Ersa-Release/releases/download/build-236/VLCKit-3.7.2-VLC-3.0.23-Sources.zip
+SHA-256 39088274e8b6a9e7023b690085e0fd7651fe770b60ccd449fa91c1478bd5fa3f
+Ersa-236-Recipient-Relink.zip
+https://github.com/cr8v-studio/Ersa-Release/releases/download/build-236/Ersa-236-Recipient-Relink.zip
+SHA-256 7da160ae5c23d5f9e4dd0b7018396e9b14a6b5d7ad942fe193861eea294e4de7</description>
+      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-236/Ersa-236.zip" length="44068776" type="application/octet-stream" sparkle:edSignature="8xVTkI3ASnEllwb8AT61f52RUSxArkD4tYpbnfjmy7/ZbcAiMpGlURihxIyp9Bk2sgvwolbtAJJjCYNiMHfjDQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: NtW6yFQg85Uii+SQSWNwRjzkax8oQ6AX85eEOJj+TKlH3xhbwye1aPF9EtRigxsj1WQwAix5fMJFknOrHO/yBQ==
-length: 957
+edSignature: 0U3d+EBw0i7aYGFTDNlJtvNrb+Fx56z0v9eXQz1O5hS+YocZ5ZFSBS0m54EHioIAB/ju0Idu1iDCnnE7ek+LAw==
+length: 1784
 -->
