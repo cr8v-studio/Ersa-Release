@@ -5,17 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Ersa</title>
     <item>
       <title>Ersa 0.1.2</title>
-      <sparkle:version>308</sparkle:version>
+      <sparkle:version>312</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="plain-text">Restored the standard macOS menu for audio tracks and subtitles, with keyboard navigation.
-Improved the audio player's appearance in light and dark mode and increased contrast in playback controls.
-Refined file actions and task removal. The player can return you to the associated download.</description>
-      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-308-Recipient-Relink.zip":"9db98f4e1ec4a59a6c2755d297fe55bd3371ec08d89fc3963a83d56883e53895","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"308","embeddedVLCKitSHA256":"00b64e824a61f204b574237b3d72757fe2dac25af022a9fad23fe97554d65734","releaseArchive":"Ersa-308.zip","releaseArchiveSHA256":"e844eaec635bc13382f8e8ac2d6fe8b07b1e585e31cb3cb3a59c3932b4bb876d","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
-      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-308/Ersa-308.zip" length="25610949" type="application/octet-stream" sparkle:edSignature="AS/JfMLzEbW7PV0TpDbrZyeHtJpCdXQyptJPYh4jJdBXF+EGAUqU1/SqxWt4O7QhSPkAvztpDZUJVKfl7gl4CA=="></enclosure>
+      <description sparkle:format="plain-text">Set the peer connection limit in Settings → Advanced. New installations use 200. Choose a custom limit using the slider or enter an exact number. Existing limits are preserved, and Apply updates the current transfer when available.
+The Downloads window now displays the Ersa mark when the task list is empty.</description>
+      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-312-Recipient-Relink.zip":"f5628e432cf14c8a09685d3f617e0f96f56609a8d407a87cc2b278cc15a97ba5","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"312","embeddedVLCKitSHA256":"dae8fe3a8d3ee81e75ff202922704ed99068d8cbadda802de5d7186406f12310","releaseArchive":"Ersa-312.zip","releaseArchiveSHA256":"210013d2e5c4e252bda3214f5c04c57ced4357b078f919100fa512f2e62fe901","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
+      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-312/Ersa-312.zip" length="25637119" type="application/octet-stream" sparkle:edSignature="lsfgKf5vqsEZsUhgR0FH5WxtGqaXqwHEPCQ+aohe+b6GlVwQUpmWu4N6asnWEP5pLXLWtt8R5DY9rk0Gs38ECw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: oEUz+8z5CihvERJWoNNKjRWR9ggw5ga0Y1VMchCTlHsPrrezr0WDN69Xi/nRctXRVLeyJMr3bLgpBOH6QMAOCA==
-length: 2444
+edSignature: 8XVC0HzE7RfnmyJkbGGJdsALxhTX2NwPfusg+gro23MNVjUD+tbNBDpiH/HWtpOnu5QrsKVjFndpCX3PC0/xDA==
+length: 2464
 -->
