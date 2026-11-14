@@ -8,15 +8,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
       <sparkle:version>270</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description>Corresponding VLCKit sources, recipient relink kit and Ersa license.
+      <description sparkle:format="plain-text">Corresponding VLCKit sources, recipient relink kit and Ersa license.
 The corresponding VLCKit source archive records the original build 256. Its signed framework and build 270 have identical bytes before the code signature (36503424 bytes, SHA-256 d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d). The signed framework in this build has SHA-256 15bd21ec9b7bff01735ddfeb4ffd3266ff7a2d7e35f4a1ef161dea0adb91f096.
-&lt;p&gt;&lt;a href="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-270/ERSA-OWN-CODE-LICENSE.txt"&gt;ERSA-OWN-CODE-LICENSE.txt&lt;/a&gt; · SHA-256 36c942792e9a6d90e385b2d9e933e688f3143c5b1acc3642a88f4c1438215093&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-270/Ersa-270-Recipient-Relink.zip"&gt;Ersa-270-Recipient-Relink.zip&lt;/a&gt; · SHA-256 df335b937db131fa959f8136479c1f83455bf35d4890314e360f4bb96b94e8be&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-270/VLCKit-3.7.2-VLC-3.0.23-Sources.zip"&gt;VLCKit-3.7.2-VLC-3.0.23-Sources.zip&lt;/a&gt; · SHA-256 667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2&lt;/p&gt;</description>
+ERSA-OWN-CODE-LICENSE.txt: https://github.com/cr8v-studio/Ersa-Release/releases/download/build-270/ERSA-OWN-CODE-LICENSE.txt · SHA-256 36c942792e9a6d90e385b2d9e933e688f3143c5b1acc3642a88f4c1438215093
+Ersa-270-Recipient-Relink.zip: https://github.com/cr8v-studio/Ersa-Release/releases/download/build-270/Ersa-270-Recipient-Relink.zip · SHA-256 df335b937db131fa959f8136479c1f83455bf35d4890314e360f4bb96b94e8be
+VLCKit-3.7.2-VLC-3.0.23-Sources.zip: https://github.com/cr8v-studio/Ersa-Release/releases/download/build-270/VLCKit-3.7.2-VLC-3.0.23-Sources.zip · SHA-256 667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2</description>
       <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-270/Ersa-270.zip" length="25496982" type="application/octet-stream" sparkle:edSignature="rhzte7ixNif0ER4KYnbQHixp5rKC59syGFV2Ew3wgm8q4V/YWl79j0WWTgf52xScSPOgrMFypoUGdF4oTdGMCg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: h8vclrnRyEbzLNBYIna3pGVPtPlCgzRcuxsGc0eyH/kg+N0+DiCfLyNXB98/crjTTiPsaS+Y0BYjZSTqm1uoAQ==
-length: 2181
+edSignature: aBpwOPqYnB+QMG+AVQMpstpRP38PB66PczjhCg7aq6ZtZmphlyI9y/Fld7juk+zq6/tu8x2Jbwr72nbwUWawDw==
+length: 2077
 -->
