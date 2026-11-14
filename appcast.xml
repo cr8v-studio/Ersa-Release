@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:ersa="https://github.com/cr8v-studio/Ersa-Release/appcast" version="2.0">
   <channel>
     <title>Ersa</title>
     <item>
       <title>Ersa 0.1.2</title>
-      <sparkle:version>270</sparkle:version>
+      <sparkle:version>308</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="plain-text">Corresponding VLCKit sources, recipient relink kit and Ersa license.
-The corresponding VLCKit source archive records the original build 256. Its signed framework and build 270 have identical bytes before the code signature (36503424 bytes, SHA-256 d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d). The signed framework in this build has SHA-256 15bd21ec9b7bff01735ddfeb4ffd3266ff7a2d7e35f4a1ef161dea0adb91f096.
-ERSA-OWN-CODE-LICENSE.txt: https://github.com/cr8v-studio/Ersa-Release/releases/download/build-270/ERSA-OWN-CODE-LICENSE.txt · SHA-256 36c942792e9a6d90e385b2d9e933e688f3143c5b1acc3642a88f4c1438215093
-Ersa-270-Recipient-Relink.zip: https://github.com/cr8v-studio/Ersa-Release/releases/download/build-270/Ersa-270-Recipient-Relink.zip · SHA-256 df335b937db131fa959f8136479c1f83455bf35d4890314e360f4bb96b94e8be
-VLCKit-3.7.2-VLC-3.0.23-Sources.zip: https://github.com/cr8v-studio/Ersa-Release/releases/download/build-270/VLCKit-3.7.2-VLC-3.0.23-Sources.zip · SHA-256 667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2</description>
-      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-270/Ersa-270.zip" length="25496982" type="application/octet-stream" sparkle:edSignature="rhzte7ixNif0ER4KYnbQHixp5rKC59syGFV2Ew3wgm8q4V/YWl79j0WWTgf52xScSPOgrMFypoUGdF4oTdGMCg=="></enclosure>
+      <description sparkle:format="plain-text">Restored the standard macOS menu for audio tracks and subtitles, with keyboard navigation.
+Improved the audio player's appearance in light and dark mode and increased contrast in playback controls.
+Refined file actions and task removal. The player can return you to the associated download.</description>
+      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-308-Recipient-Relink.zip":"9db98f4e1ec4a59a6c2755d297fe55bd3371ec08d89fc3963a83d56883e53895","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"308","embeddedVLCKitSHA256":"00b64e824a61f204b574237b3d72757fe2dac25af022a9fad23fe97554d65734","releaseArchive":"Ersa-308.zip","releaseArchiveSHA256":"e844eaec635bc13382f8e8ac2d6fe8b07b1e585e31cb3cb3a59c3932b4bb876d","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
+      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-308/Ersa-308.zip" length="25610949" type="application/octet-stream" sparkle:edSignature="AS/JfMLzEbW7PV0TpDbrZyeHtJpCdXQyptJPYh4jJdBXF+EGAUqU1/SqxWt4O7QhSPkAvztpDZUJVKfl7gl4CA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: aBpwOPqYnB+QMG+AVQMpstpRP38PB66PczjhCg7aq6ZtZmphlyI9y/Fld7juk+zq6/tu8x2Jbwr72nbwUWawDw==
-length: 2077
+edSignature: oEUz+8z5CihvERJWoNNKjRWR9ggw5ga0Y1VMchCTlHsPrrezr0WDN69Xi/nRctXRVLeyJMr3bLgpBOH6QMAOCA==
+length: 2444
 -->
