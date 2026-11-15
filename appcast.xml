@@ -5,17 +5,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Ersa</title>
     <item>
       <title>Ersa 0.1.2</title>
-      <sparkle:version>319</sparkle:version>
+      <sparkle:version>327</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="plain-text">Switch between Normal and Limited Speed using the turtle in the toolbar.
-Set separate download and upload limits for each mode. Use the sliders or enter an exact rate.
-Existing limits carry over to Normal Speed, and Ersa remembers the selected mode.</description>
-      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-319-Recipient-Relink.zip":"5cdf6a4c0ec2d38c4c74692bb40ad901d6377dd4e959dd958664755c35b3cce7","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"319","embeddedVLCKitSHA256":"1ea1c6420fdafaf28986024edb9fd3944b44c95368d9287a823b54da06dc509a","releaseArchive":"Ersa-319.zip","releaseArchiveSHA256":"e91b0776a23c17fb243449e0033cf7a05d76da7a6fc5d0161b19991fb8c3bb37","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
-      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-319/Ersa-319.zip" length="25694337" type="application/octet-stream" sparkle:edSignature="pGm9TOJHlXjGqdcJ0FxK+Ne2lbB95AXbyXkk+VGAHHK6jZ70FBvLfWoq9Vo7uzBHwl8gI2ETbgqSjkvW5fK2Aw=="></enclosure>
+      <description sparkle:format="plain-text">The Downloads toolbar keeps its position when switching Limited Speed.
+The progress indicator moves to the toolbar after the speed popover closes.
+Choose Ersa as the default app for .torrent files in Settings → Advanced.
+Help now describes the snail button in all supported languages.</description>
+      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-327-Recipient-Relink.zip":"c1b38b03c82026b168faa02675628bb76f6d5e7c681e8984a475b8799224850b","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"327","embeddedVLCKitSHA256":"84b1ba7d8e9f5fe110aeb30ae994b20a4eda8c808b69c27e0b8eb1228a807579","releaseArchive":"Ersa-327.zip","releaseArchiveSHA256":"3c9ccb95eaafb57a96decbd38a6ea7df0a4a5cdc3c4a16d7be03785876d7b464","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
+      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-327/Ersa-327.zip" length="25708397" type="application/octet-stream" sparkle:edSignature="NXpNhbjqbqQ2i/RyEbl5y3FZzhJGHEC2EkEBQfMY2qQG7Yi8YFcsaCzxLkv9AjV2h/HDGjVDOpYybqPXquGQDw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: eNy7DLsGRgTzsKaXsj7RpjLEK5XOnC71r077MGxp18NfcCvQ0OemM6lK+alIdm08ICjfHAuwTVxHTXRstuY1AQ==
-length: 2403
+edSignature: 2+ulZqEa+ptaHwTg8/Bhlrly7dXCUuclGbU/hzKTpm9jIdQZyVqjpHtwdnZQcbyYKBC0Z+g0m6NexLF4272aCA==
+length: 2440
 -->
