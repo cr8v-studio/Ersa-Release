@@ -5,15 +5,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Ersa</title>
     <item>
       <title>Ersa 0.1.2</title>
-      <sparkle:version>332</sparkle:version>
+      <sparkle:version>350</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="plain-text">Updated the Ersa badge for .torrent documents in Finder and Quick Look.</description>
-      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-332-Recipient-Relink.zip":"fff2d48fe0a393168c45f36bf0112c589fab55ad39fd0f19b9c1ba46eeb444a3","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"332","embeddedVLCKitSHA256":"e441ae9dd0ba00eedaf8abfcc82801773448083191f2b1705bff5a925696a8ea","releaseArchive":"Ersa-332.zip","releaseArchiveSHA256":"28cd9c4593da1e338c3f9e3087a949ec5d8568df351f7423ba00acd7909ae2e0","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
-      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-332/Ersa-332.zip" length="25704441" type="application/octet-stream" sparkle:edSignature="O7nmHd2bn7vnrh2bwvtmcqGtdEKCUvpGdlo0fivqIwQCVLdjZTbIDM9/3QmBFCTK0V1w3jyG/TWCII6S6TeOCA=="></enclosure>
+      <description sparkle:format="plain-text">Download and upload limits now use macOS sliders with clearer scales. Peer limits show five reference marks.
+The speed-mode panel stays anchored while the change is applied, and you can reopen it while waiting.
+Fixed a player freeze when seeking and replaying after a video ended. Full-screen controls fade with Reduce Motion support.
+Improved keyboard focus after choosing a folder, cancelling a magnet link, or saving a task to the queue.</description>
+      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-350-Recipient-Relink.zip":"ad143f9c568aeca9be039f080706b8ff5f8290a37819bc8c634dd31eda68baf8","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"350","embeddedVLCKitSHA256":"af46d7c20d83646a830e6c57517abff09b34454c2ce3e77df9e32849b9177563","releaseArchive":"Ersa-350.zip","releaseArchiveSHA256":"38454d7e5431aeaafbaeb92d04ad4af49ded5b2230e6d5c2480f70ac96e46b32","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
+      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-350/Ersa-350.zip" length="25726552" type="application/octet-stream" sparkle:edSignature="/L4wvWZVdot5DxGt/e9gT/ghDj+xFYZvNvBiZ4ukbRHYocQ0Dkym+4waR1wyqBHxkNQXNhYY61LeH8aYpHCOCg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: WQ0sgjA0aWr2S2MMRwJwp9Q8X84qXx/YDC50f5DvQLP1qRaZw357Se+mkZi2yhc5C8yGIaTeVhiRtdwfR+sCAA==
-length: 2225
+edSignature: nXFiIYmpH9QZ/fkO443bs6c+trcSvbAiYA/a3pxlJ2Q8cXPW+31KZ87w6STmoU1rbSFa5VdqZtO6O9aWs1MsAA==
+length: 2594
 -->
