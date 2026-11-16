@@ -5,15 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Ersa</title>
     <item>
       <title>Ersa 0.1.2</title>
-      <sparkle:version>361</sparkle:version>
+      <sparkle:version>363</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="plain-text">Ersa now accepts magnet links whose display names mix Unicode characters with percent escapes when pasted into Add magnet.</description>
-      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-361-Recipient-Relink.zip":"26752e413ab2b61e6bdb58fa862e98f7198de2ab945f5b7273cf449e81be4ebb","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"361","embeddedVLCKitSHA256":"720146aa2591dbe458b98e8fb292ef8a8f9bb6fd8210792c2454dca47fa5b586","releaseArchive":"Ersa-361.zip","releaseArchiveSHA256":"147fb834013f8663614dac9045a5bcd77a89359043a27a9eca313b1363c129db","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
-      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-361/Ersa-361.zip" length="25742666" type="application/octet-stream" sparkle:edSignature="nUJeYRb7UPLeKnsOH4IV0tQgjRjNTR2o/t1hKBHVQLaAsfL8S2QUciUoX5azj9yKcZFrPNQI++q7ryHPDcpoCg=="></enclosure>
+      <description sparkle:format="plain-text">Escape now closes the windowed video player, including the playback error screen. In full screen, Escape returns to the regular window. When the volume panel is open, Escape dismisses that panel.</description>
+      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-363-Recipient-Relink.zip":"67f1651a9a8cbeb8819dc358409765dbf19886bfd86b8493170d4647cf2ed7ff","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"363","embeddedVLCKitSHA256":"7a7459b7f6823d0d968f4d627eabf3c03789f0bbe9879c946528d3f62d5a5c8d","releaseArchive":"Ersa-363.zip","releaseArchiveSHA256":"b346780964ad4dea04e9519ca6365da264854ae9823298d22499e2cb43e57269","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
+      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-363/Ersa-363.zip" length="25744829" type="application/octet-stream" sparkle:edSignature="oq+7trGkUPq0Yv2ygWRMFID7MLAsAPmfb0T/ZCNNilT4ZCDhLUHiaLbPmIaYiGInUsNagn/pDLPperZ7TRuyAQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: FxcrjBKrUZNzvJFacxbOv3vpISZg33x3UlB79+CstJ/9ASN8r3oi07u7RXepEYZynJjdHgUo9rWWNDQaqKKfAQ==
-length: 2276
+edSignature: /VZ5CTz8Uzf6Kzq2+Tz+mQDJ50mM6qdmz4l2WJI6Dx6b+KTimrHVNLaAC7CSndY5gs8VY11TyJejIMgMMU64Cg==
+length: 2349
 -->
