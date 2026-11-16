@@ -5,15 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Ersa</title>
     <item>
       <title>Ersa 0.1.2</title>
-      <sparkle:version>363</sparkle:version>
+      <sparkle:version>366</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="plain-text">Escape now closes the windowed video player, including the playback error screen. In full screen, Escape returns to the regular window. When the volume panel is open, Escape dismisses that panel.</description>
-      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-363-Recipient-Relink.zip":"67f1651a9a8cbeb8819dc358409765dbf19886bfd86b8493170d4647cf2ed7ff","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"363","embeddedVLCKitSHA256":"7a7459b7f6823d0d968f4d627eabf3c03789f0bbe9879c946528d3f62d5a5c8d","releaseArchive":"Ersa-363.zip","releaseArchiveSHA256":"b346780964ad4dea04e9519ca6365da264854ae9823298d22499e2cb43e57269","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
-      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-363/Ersa-363.zip" length="25744829" type="application/octet-stream" sparkle:edSignature="oq+7trGkUPq0Yv2ygWRMFID7MLAsAPmfb0T/ZCNNilT4ZCDhLUHiaLbPmIaYiGInUsNagn/pDLPperZ7TRuyAQ=="></enclosure>
+      <description sparkle:format="plain-text">Video can resume automatically after a long wait for missing verified data.
+Watch can open an unchanged selected file after the download folder's dates change.</description>
+      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-366-Recipient-Relink.zip":"e671a060dcd212416cd439cf881513e6de337eb1d98296dafb9ef3f0ced2e0e1","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"366","embeddedVLCKitSHA256":"4df8c3e99580e564d0ee5b27664bb39cd48608c61a57a8cb93c8382bc05ea7a4","releaseArchive":"Ersa-366.zip","releaseArchiveSHA256":"daae92887d066c27bc6c4a1d3b4d87bc6b05abd24868ad74a250f60f281262ea","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
+      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-366/Ersa-366.zip" length="25754664" type="application/octet-stream" sparkle:edSignature="gjBECt0oI5YJ6WHOWt0CVQz7SuEWjAe2ffcfgyGZYldsqJb/8xbxUhAXJE3l2YfyuzxE8X0acO+6/9514lebBA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /VZ5CTz8Uzf6Kzq2+Tz+mQDJ50mM6qdmz4l2WJI6Dx6b+KTimrHVNLaAC7CSndY5gs8VY11TyJejIMgMMU64Cg==
-length: 2349
+edSignature: lkPfMQ+X+ctd1mCc2PlMRKADNULZdiBPSJ2LTRU6Nz8hLi6xjYDBzyesRcY60q5bDjehPQNpT2JBqq6bQCsbBg==
+length: 2313
 -->
