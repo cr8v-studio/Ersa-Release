@@ -5,15 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Ersa</title>
     <item>
       <title>Ersa 0.1.2</title>
-      <sparkle:version>359</sparkle:version>
+      <sparkle:version>361</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="plain-text">Video can resume automatically after buffering when the data it needs becomes available. Ersa Help now explains what Ersa saves on your Mac and what it shares over the network.</description>
-      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-359-Recipient-Relink.zip":"d161e46cd9f134cc014e8f5f13db7ae9468b2d30e65c627e61a8444b5a3f9937","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"359","embeddedVLCKitSHA256":"cbd86f70565cea972f1b5f6896905c4f1e6d40abd90b7a82fece990ff14a53b5","releaseArchive":"Ersa-359.zip","releaseArchiveSHA256":"f505f6a10ddefcebae8ee04b5c61aeb357e718b5ea2a264fb1d3022941fe7237","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
-      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-359/Ersa-359.zip" length="25739465" type="application/octet-stream" sparkle:edSignature="SgVwELRpAsmHOaebiCYg+7Fo9sUYrX4nJIJhvldGzYTeeapFMbOKRi2hRaSfINhpTrWF1N/j0+BBDr9Ln2uiAQ=="></enclosure>
+      <description sparkle:format="plain-text">Ersa now accepts magnet links whose display names mix Unicode characters with percent escapes when pasted into Add magnet.</description>
+      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-361-Recipient-Relink.zip":"26752e413ab2b61e6bdb58fa862e98f7198de2ab945f5b7273cf449e81be4ebb","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"361","embeddedVLCKitSHA256":"720146aa2591dbe458b98e8fb292ef8a8f9bb6fd8210792c2454dca47fa5b586","releaseArchive":"Ersa-361.zip","releaseArchiveSHA256":"147fb834013f8663614dac9045a5bcd77a89359043a27a9eca313b1363c129db","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
+      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-361/Ersa-361.zip" length="25742666" type="application/octet-stream" sparkle:edSignature="nUJeYRb7UPLeKnsOH4IV0tQgjRjNTR2o/t1hKBHVQLaAsfL8S2QUciUoX5azj9yKcZFrPNQI++q7ryHPDcpoCg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: fAbIEgoytOYhj5utM7VoQuShuPN6W4LCiNInlwvBjcSonhfzjXRKyY3IUcsTD61P8lhfvPp62dFMCE1wD7MFAA==
-length: 2330
+edSignature: FxcrjBKrUZNzvJFacxbOv3vpISZg33x3UlB79+CstJ/9ASN8r3oi07u7RXepEYZynJjdHgUo9rWWNDQaqKKfAQ==
+length: 2276
 -->
