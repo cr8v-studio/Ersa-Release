@@ -5,18 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Ersa</title>
     <item>
       <title>Ersa 0.1.2</title>
-      <sparkle:version>350</sparkle:version>
+      <sparkle:version>359</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="plain-text">Download and upload limits now use macOS sliders with clearer scales. Peer limits show five reference marks.
-The speed-mode panel stays anchored while the change is applied, and you can reopen it while waiting.
-Fixed a player freeze when seeking and replaying after a video ended. Full-screen controls fade with Reduce Motion support.
-Improved keyboard focus after choosing a folder, cancelling a magnet link, or saving a task to the queue.</description>
-      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-350-Recipient-Relink.zip":"ad143f9c568aeca9be039f080706b8ff5f8290a37819bc8c634dd31eda68baf8","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"350","embeddedVLCKitSHA256":"af46d7c20d83646a830e6c57517abff09b34454c2ce3e77df9e32849b9177563","releaseArchive":"Ersa-350.zip","releaseArchiveSHA256":"38454d7e5431aeaafbaeb92d04ad4af49ded5b2230e6d5c2480f70ac96e46b32","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
-      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-350/Ersa-350.zip" length="25726552" type="application/octet-stream" sparkle:edSignature="/L4wvWZVdot5DxGt/e9gT/ghDj+xFYZvNvBiZ4ukbRHYocQ0Dkym+4waR1wyqBHxkNQXNhYY61LeH8aYpHCOCg=="></enclosure>
+      <description sparkle:format="plain-text">Video can resume automatically after buffering when the data it needs becomes available. Ersa Help now explains what Ersa saves on your Mac and what it shares over the network.</description>
+      <ersa:attachments>{"files":{"ERSA-OWN-CODE-LICENSE.txt":"f3f19b0251c359bac9b49a37f53da08c72eb951905cf11bf4d46b1b9f33f12ac","Ersa-359-Recipient-Relink.zip":"d161e46cd9f134cc014e8f5f13db7ae9468b2d30e65c627e61a8444b5a3f9937","VLCKit-3.7.2-VLC-3.0.23-Sources.zip":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2"},"vlckit":{"architecture":"arm64","build":"359","embeddedVLCKitSHA256":"cbd86f70565cea972f1b5f6896905c4f1e6d40abd90b7a82fece990ff14a53b5","releaseArchive":"Ersa-359.zip","releaseArchiveSHA256":"f505f6a10ddefcebae8ee04b5c61aeb357e718b5ea2a264fb1d3022941fe7237","sharedCodeBytes":36503424,"sharedCodeSHA256":"d99855a6a85da3de9ef5683287c0f7d91eeaf59368d4adef871ce2425fc1606d","sourceArchive":"VLCKit-3.7.2-VLC-3.0.23-Sources.zip","sourceArchiveSHA256":"667810a6f25584b96336bf9b66d4c2678f2b6edc04815f5d5e796a20214069e2","sourceBuild":"256","sourceFrameworkSHA256":"2eee142df1f22a686a61754357f012e867e6e14500d60472257a4956d96b6d33","sourceReleaseSHA256":"a38f712571a1c0fc20a05b5882710dade3590c9cd77ea14d76d7c11b5e441a77"}}</ersa:attachments>
+      <enclosure url="https://github.com/cr8v-studio/Ersa-Release/releases/download/build-359/Ersa-359.zip" length="25739465" type="application/octet-stream" sparkle:edSignature="SgVwELRpAsmHOaebiCYg+7Fo9sUYrX4nJIJhvldGzYTeeapFMbOKRi2hRaSfINhpTrWF1N/j0+BBDr9Ln2uiAQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: nXFiIYmpH9QZ/fkO443bs6c+trcSvbAiYA/a3pxlJ2Q8cXPW+31KZ87w6STmoU1rbSFa5VdqZtO6O9aWs1MsAA==
-length: 2594
+edSignature: fAbIEgoytOYhj5utM7VoQuShuPN6W4LCiNInlwvBjcSonhfzjXRKyY3IUcsTD61P8lhfvPp62dFMCE1wD7MFAA==
+length: 2330
 -->
